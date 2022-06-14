@@ -47,3 +47,5 @@ Al darle click al botón de Browse o al link de nuestro sitio nos llevara al sit
 En caso de querer borrar o detener el sitio le puede click en detener o borrar el servicio.
 
 ![](https://raw.githubusercontent.com/jorgebt95/PORTFOLIO/main/docs/posts/images/ultimo.jpg)
+
+Listo! Si llegamos a esta pantalla tenemos nuestro sitio de WordPress usando los recursos de Azure!
