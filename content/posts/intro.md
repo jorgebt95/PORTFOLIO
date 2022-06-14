@@ -1,12 +1,12 @@
 ---
-title: "Monrar WP de WordPress con Azure"
+title: "Montar WP de WordPress con Azure"
 date: 
 description: 'Como hacer el despliegue de una pagina de wordpress usando recursos de Azure'
 ---
  Lo primero que se necesita es tener una cuenta de azure e ingresar al [Portal de Azure](portal.azure.com)
 
  Una vez estando dentro del portal en la barra de busqueda ingresamos: Marketplace
-![](images/barra-marketplace.jpg)
+![](content/posts/images/barra-marketplace.jpg)
 
  Dentro de la tienda o Marketplace buscaremos los servicios de WordPress, hay varios pero elegimos el que se muestra en la imagen
 
@@ -31,7 +31,7 @@ Posteriormente mostrará los datos que ingresamos solo para confirmar y damos cl
 
 ![](images/paso6.jpg)
 
-Al darle click se empezará a desplegar nuestra pagina en Azure y nos mostrará una imagen como la siguiente: 
+Al darle click se empezará a desplegar nuestra pagina en Azure y nos mostrará una imagen como la siguiente:
 ![](images/paso7.jpg)
 
 Tendrá que dejar que pase un tiempo para que se carguen los recursos, tal vez entre 2 a 5 min dependiendo la zona que se elija.
@@ -44,7 +44,6 @@ Seleccionamos la opcion de ir a recurso y nos mostrará lo siguiente.
 
 Al darle click al botón de Browse o al link de nuestro sitio nos llevara al sitio de WordPress donde solo necesitamos seguir las intrucciones de WordPress para instalar WordPress a nuestro sitio.
 
-En caso de querer borrar o detener el sitio le puede click en detener o borrar el servicio. 
+En caso de querer borrar o detener el sitio le puede click en detener o borrar el servicio.
 
 ![](images/ultimo.jpg)
-
