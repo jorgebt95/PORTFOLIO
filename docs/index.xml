@@ -28,15 +28,6 @@ En la siguiente pantalla se te aparecera algo como la que muestro, en el plan no
     </item>
     
     <item>
-      <title>Mis expectativas</title>
-      <link>https://jorgebt95.github.io/PORTFOLIO/posts/intro/</link>
-      <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
-      
-      <guid>https://jorgebt95.github.io/PORTFOLIO/posts/intro/</guid>
-      <description>Usa este post para anotar tus expectativas de la misión.</description>
-    </item>
-    
-    <item>
       <title>About me</title>
       <link>https://jorgebt95.github.io/PORTFOLIO/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -44,6 +35,17 @@ En la siguiente pantalla se te aparecera algo como la que muestro, en el plan no
       <guid>https://jorgebt95.github.io/PORTFOLIO/pages/about/</guid>
       <description>Quien soy? Hola, aquí vas a leer un poco sobre mi.
  Mi nombre es Jorge Aaron Barrientos Tapia, soy ingeniero en Software egrasado de la Universidad Politecnica de Santa Rosa Jauregui, hablo muy bien el inglés, se un poquito de Alemán y tambien muy poco Frances, estoy enfocado en el desarrollo web, trabaje como project manager en una empresa pequeña llamada Power Solutions donde administraba proyectos de ingeniería, no era muy relacionado con IT y ahora estoy en busqueda de una nueva oportunidad laboral.</description>
+    </item>
+    
+    <item>
+      <title>Monrar WP de WordPress con Azure</title>
+      <link>https://jorgebt95.github.io/PORTFOLIO/posts/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jorgebt95.github.io/PORTFOLIO/posts/intro/</guid>
+      <description>Lo primero que se necesita es tener una cuenta de azure e ingresar al Portal de Azure
+Una vez estando dentro del portal en la barra de busqueda ingresamos: Marketplace Dentro de la tienda o Marketplace buscaremos los servicios de WordPress, hay varios pero elegimos el que se muestra en la imagen
+En la siguiente pantalla se te aparecera algo como la que muestro, en el plan no hay que modificarle nada, se queda como WordPress y damos click en create o crear.</description>
     </item>
     
   </channel>
