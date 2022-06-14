@@ -10,7 +10,7 @@ description: 'Como hacer el despliegue de una pagina de wordpress usando recurso
 
  Dentro de la tienda o Marketplace buscaremos los servicios de WordPress, hay varios pero elegimos el que se muestra en la imagen
 
-![](images/paso2.jpg)
+![](https://raw.githubusercontent.com/jorgebt95/PORTFOLIO/main/content/posts/images/paso2.jpg)
 
  En la siguiente pantalla se te aparecera algo como la que muestro, en el plan no hay que modificarle nada, se queda como WordPress y damos click en create o crear.
 
