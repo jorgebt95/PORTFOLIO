@@ -1,12 +1,12 @@
 ---
 title: "Montar WP de WordPress con Azure"
-date: 
+date: 2022-06-14
 description: 'Como hacer el despliegue de una pagina de wordpress usando recursos de Azure'
 ---
  Lo primero que se necesita es tener una cuenta de azure e ingresar al [Portal de Azure](portal.azure.com)
 
  Una vez estando dentro del portal en la barra de busqueda ingresamos: Marketplace
-![](content/posts/images/barra-marketplace.jpg)
+![](/main/content/posts/images/barra-marketplace.jpg)
 
  Dentro de la tienda o Marketplace buscaremos los servicios de WordPress, hay varios pero elegimos el que se muestra en la imagen
 
