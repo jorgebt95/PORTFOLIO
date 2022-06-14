@@ -2,7 +2,7 @@
 title: "Monrar WP de WordPress con Azure"
 date: 2022-06-14
 description: 'Como hacer el despliegue de una pagina de wordpress usando recursos de Azure'
--------------------------------
+---
 
 # Despliegue de pagina en WordPress por medio de Azure
  Lo primero que se necesita es tener una cuenta de azure e ingresar al [Portal de Azure](portal.azure.com)
