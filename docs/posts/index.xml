@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Jorge Barrientos</title>
-    <link>https://jorgebt95.github.io/my_launchx_blog/posts/</link>
+    <link>https://jorgebt95.github.io/PORTFOLIO/posts/</link>
     <description>Recent content in Blog on Jorge Barrientos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://jorgebt95.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://jorgebt95.github.io/PORTFOLIO/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Primer post!</title>
-      <link>https://jorgebt95.github.io/my_launchx_blog/posts/post_1/</link>
+      <link>https://jorgebt95.github.io/PORTFOLIO/posts/post_1/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jorgebt95.github.io/my_launchx_blog/posts/post_1/</guid>
+      <guid>https://jorgebt95.github.io/PORTFOLIO/posts/post_1/</guid>
       <description>Hola, este es mi primer post, very exited!</description>
     </item>
     
     <item>
       <title>Mis expectativas</title>
-      <link>https://jorgebt95.github.io/my_launchx_blog/posts/intro/</link>
+      <link>https://jorgebt95.github.io/PORTFOLIO/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
       
-      <guid>https://jorgebt95.github.io/my_launchx_blog/posts/intro/</guid>
+      <guid>https://jorgebt95.github.io/PORTFOLIO/posts/intro/</guid>
       <description>Usa este post para anotar tus expectativas de la misión.</description>
     </item>
     
