@@ -8,6 +8,18 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://jorgebt95.github.io/PORTFOLIO/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Creación de UI desde una imagen</title>
+      <link>https://jorgebt95.github.io/PORTFOLIO/posts/ui_interface/</link>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jorgebt95.github.io/PORTFOLIO/posts/ui_interface/</guid>
+      <description>En esta mini practica, me base en una imagen para generar con codigo e imgenes la interfaz más parecida a la requerida, tomo algo de tiempo. (2 días) Se sufrió pero se logró!
+ Interfaz hecha por mi!
+  REPO PARA CONOCER EL CODIGO
+ </description>
+    </item>
+    
+    <item>
       <title>Montar WP de WordPress con Azure</title>
       <link>https://jorgebt95.github.io/PORTFOLIO/posts/intro/</link>
       <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
